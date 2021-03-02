@@ -13,7 +13,7 @@ The above observations are gathered from comparing the statistics between June a
 
 ![December_Temps](/December_Temps.png)
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary:
 Overall, although the temperatures in December are slightly lower than of June temperatures, wihch is expected, the temperature differences are not drastic, meaning it should be economically viable to run a surf shop year-round in Oahu. 
 
 Another two additional queries that can be performed to gather more weather data would be one query that showcases precipitation levels for the month of June, and one query that showcases the precipitation levels for the month of December. We can then gather the summary statistics for each using Pandas, and can better gage how much rain the city of Oahu receives on average, since this is an important factor to consider, as too much rain could hinder the profitability of the surf shop.
