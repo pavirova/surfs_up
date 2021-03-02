@@ -9,6 +9,7 @@ This analysis consisted of using Python along with tools like Jupyter Notebook, 
 - The minimum temperatures between the two months are what vary the most, with December temperatures being 8 degrees colder than June.
 
 The above observations are gathered from comparing the statistics between June and December, shown in the images below:
+
 ![June_Temps](/June_Temps.png)
 
 ![December_Temps](/December_Temps.png)
